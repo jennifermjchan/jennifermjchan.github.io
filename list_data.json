@@ -1,33 +1,33 @@
 {
-	"publications": [{
-		"Title": "Automatically Generating Cause-and_Effect Questions from Passages",
-		"Authors": "Stasaski, K., Rathod, M., Tu, T., Xiao, Y, and Hearst, M.A.",
-		"Venue": "BEA Workshop",
-		"Year": "2021"
+	"work_experience": [{
+		"Company": "Disney Publishing Worldwide",
+		"Role title": "Associate Marketing Manager",
+		"Start date": "June 2017",
+		"End date": "July 2021"
 	},
 	{
-		"Title": "Automatic Feedback Generation for Dialog-Based Language Tutors Using Transformer Models and Active Learning",
-		"Authors": "Stasaski, K. and Ramanarayanan, V.",
-		"Venue": "Human-in-the-Loop Dialogue Systems Workshop",
-		"Year": "2020"
+		"Company": "The Root Solutios",
+		"Role title": "Research Project Assistant",
+		"Start date": "March 2020",
+		"End date": "July 2020"
 	},
 	{
-		"Title": "More Diverse Dialogue Datasets via Diversity-Informed Data Collection",
-		"Authors": "Stasaski, K., Yang, G., and Hearst, M.A.",
-		"Venue": "ACL",
-		"Year": "2020"
+		"Company": "Disney Interactive",
+		"Role title": "Digital Content Coordinator",
+		"Start date": "January 2016",
+		"End date": "June 2017"
 	},
 	{
-		"Title": " Construction of a Large Open Access Dialogue Dataset for Tutoring",
-		"Authors": "Stasaski, K., Kao, K., and Hearst, M.A.",
-		"Venue": "BEA Workshop",
-		"Year": "2020"
+		"Company": "Walt Disney Studios",
+		"Role title": "Digital Marketing Intern",
+		"Start date": "June 2015",
+		"End date": "August 2015"
 	},
 	{
-		"Title": "Multiple Choice Question Generation Utilizing an Ontology",
-		"Authors": "Stasaski, K and Hearst, M.A.",
-		"Venue": "BEA Workshop",
-		"Year": "2017"
+		"Company": "ISAtv",
+		"Role title": "Media Management Associate",
+		"Start date": "May 2014",
+		"End date": "May 2015"
 	}]
 	
 }
